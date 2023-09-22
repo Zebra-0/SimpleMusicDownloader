@@ -1,0 +1,7 @@
+v058
+
+Atualizaçãoes:
+# Corrigido extensão do download mp3 e mp4 de acordo com a preferencia do usuário.
+# Alterada a label de mp3/mp4 em configurações
+# melhorado o verificador de versão para apagar a pasta git quando necessário.
+# site para baixar o SMD: https://suportedoluiz.wixsite.com/simplemusicdownloade
