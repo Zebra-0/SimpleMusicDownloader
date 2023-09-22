@@ -1,6 +1,6 @@
 v058
 
-Atualizaçãoes:
+Updates:
 # Corrigido extensão do download mp3 e mp4 de acordo com a preferencia do usuário.
 # Alterada a label de mp3/mp4 em configurações
 # melhorado o verificador de versão para apagar a pasta git quando necessário.
